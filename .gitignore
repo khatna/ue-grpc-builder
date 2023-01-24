@@ -4,3 +4,4 @@ GrpcBin/
 GrpcInclude/
 GrpcLib/
 .vscode/
+.DS_Store
